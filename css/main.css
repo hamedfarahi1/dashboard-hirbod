@@ -136,6 +136,7 @@ html, body {
 	flex: 1 1 200px;
 	border: outset;
 	border-width: thin;
+	border-color: #fffff1;
 	text-align: center;
 	color: #000034;
 	
@@ -323,7 +324,7 @@ html, body {
 
 .rd-wrapper > div {
 	color: #fffff1;
-	flex: 1 1 100px;
+	flex: 1 1 125px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -352,7 +353,7 @@ html, body {
 
 .rd-detail-wrapper > div {
 	height: 14px;
-	flex: 1 1 100px;
+	flex: 1 1 125px;
 	text-align: center;
 	color: #000034;
 	display: flex;
